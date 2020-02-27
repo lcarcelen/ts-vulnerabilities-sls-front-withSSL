@@ -1,0 +1,11 @@
+{
+  "UserPoolClientId": "dadn8lfg5g3v6t5r3c8meqct7",
+  "UserPoolId": "us-east-1_j6o9a49dF",
+  "CognitoAuthRole": "ts-vulnerabilities-sls-dev-appAuthRole",
+  "Region": "us-east-1",
+  "GraphqlLambdaFunctionQualifiedArn": "arn:aws:lambda:us-east-1:714428961986:function:ts-vulnerabilities-sls-dev-graphql:12",
+  "IdentityPoolId": "us-east-1:5dff1a2e-b81b-4822-9636-ba9c54df8a09",
+  "HelloLambdaFunctionQualifiedArn": "arn:aws:lambda:us-east-1:714428961986:function:ts-vulnerabilities-sls-dev-hello:15",
+  "ServiceEndpoint": "https://rc4wp3tquh.execute-api.us-east-1.amazonaws.com/dev",
+  "ServerlessDeploymentBucketName": "ts-vulnerabilities-sls-d-serverlessdeploymentbuck-ixanmt16eaxs"
+}

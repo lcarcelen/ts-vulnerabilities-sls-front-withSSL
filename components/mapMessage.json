@@ -1,0 +1,13 @@
+{
+  "UserNotFoundException": "Usuario no encontrado.",
+  "User does not exist.": "Usuario no existe.",
+  "Username cannot be empty": "Email no puede estar vacio.",
+  "Incorrect username or password.": "Contraseña o Username incorrectos.",
+  "Confirmation code cannot be empty": "Codigo de confirmacion no puede estar vacio.",
+  "Password cannot be empty": "Contraseña no puede estar vacia.",
+  "Custom auth lambda trigger is not configured for the user pool.": "Campos no ingresados correctamente.",
+  "Invalid email address format.": "Formato invalido de Correo.",
+  "1 validation error detected: Value at 'password' failed to satisfy constraint: Member must have length greater than or equal to 6": "Contraseña debe tener una longitud igual a 6 o mayor.",
+  "An account with the given email already exists.": "Ya existe una cuenta",
+  "Invalid verification code provided, please try again.": "Código de verificación no válido, por favor intente nuevamente."
+}
