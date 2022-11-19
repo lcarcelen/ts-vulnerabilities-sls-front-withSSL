@@ -19,7 +19,7 @@
     "@nuxtjs/pwa": "^3.0.0-0",
     "aws-amplify": "^2.2.2",
     "aws-amplify-vue": "^1.1.2",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2"
   },
